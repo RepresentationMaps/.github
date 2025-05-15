@@ -24,5 +24,6 @@ Anyone is welcome to contribute to this project. Feel free to open an issue or s
 ## Acknowledgments
 
 This work is part of the **H2020 PERSEO project** (grant no. 955778). Special thanks to **PAL Robotics** for supporting development and testing.
+The authors of the organization profile pictures are [Vossman](https://commons.wikimedia.org/wiki/User:Vossman) and [M. W. Toews](https://commons.wikimedia.org/wiki/User:Mwtoews), and is available under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en) license.
 
 
